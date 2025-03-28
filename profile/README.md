@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/MONOPTICAL/.github/blob/main/FullLogo.png?raw=true">
     <img src="https://github.com/MONOPTICAL/.github/blob/main/FullLogo.png?raw=true" alt="Logo">
   </a>
 
