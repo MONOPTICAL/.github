@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/MONOPTICAL">
     <img src="https://github.com/MONOPTICAL/.github/blob/main/FullLogo.png?raw=true" alt="Logo">
   </a>
 
@@ -22,3 +22,10 @@ The primary goal of `MONOPTICAL` is to simplify and automate Kubernetes security
 An outstanding feature of `MONOPTICAL` is its modular plugin system, which allows teams to easily integrate custom security checks tailored for specific vulnerabilities. Users can extend the platform by adding their own plugins to cover new or highly specialized security concerns.
 
 This solution is ideal for teams looking for an all-in-one, easy-to-manage Kubernetes security system without the hassle of integrating multiple incompatible security tools. It effectively supports both large-scale deployments running numerous microservices and smaller, specialized Kubernetes environments.
+
+## Tech Stack
+<div align="center">
+  <a href="https://github.com/MONOPTICAL">
+    <img src="https://raw.githubusercontent.com/MONOPTICAL/.github/refs/heads/main/TeckStack.png" alt="Logo">
+  </a>
+</div>
